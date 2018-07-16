@@ -38,6 +38,10 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
 :END:
+* [[file:pages/evaluation.html][Week 7 - Evaluation]]
+:PROPERTIES:
+:HTML_CONTAINER_CLASS: link-heading
+:END:
 * [[file:pages/Extension.html][Extension Activity]]
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: link-heading
