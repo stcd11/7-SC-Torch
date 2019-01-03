@@ -154,6 +154,9 @@ file:img/Build10.jpg
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Silver - Progress ladder *Yellow*, Identify and solder simple components (e.g. resistors) to PCBs, with assistance.
+- Gold - Progress ladder *Green*, Solder more challenging components (e.g. ICs) to a PCB, with assistance.
+- Platinum - Progress ladder *Blue*, Confidently and consistently solder components to a high standard.
 - Once you have completed your board, take it to your teacher for testing.
 - If it works, take pictures of both the solder side and the component side.
 - You will be assessed on the quality of your soldering and component placement.

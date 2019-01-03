@@ -145,6 +145,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:      
+- Progress ladder - *Yellow*, Conduct some relevant research on a project, with assistance.
 - In your own words, try to describe the effect on increasing and decreasing the voltage on the wire.
 * Current
 :PROPERTIES:
@@ -176,6 +177,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:      
+- Progress ladder - *Green*, Explain the terms voltage, current and resistance. 
 - In your own words, try to describe the relationship between the current flowing through the wire and the potential difference across it.
 * Resistance
 :PROPERTIES:
@@ -209,4 +211,5 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:      
+- Progress ladder - *Indigo*, Describe the operation of a given simple circuit, in terms of its components.
 - In your own words, try to describe the relationship between the current flowing through the wire, the potential difference across it and the resistance of the wire.

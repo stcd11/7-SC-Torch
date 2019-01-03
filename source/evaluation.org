@@ -112,6 +112,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Progress ladder *Yellow*, Identify areas for improvement in a project, with assistance.
 - Use the snipping tool and take a screenshot of your progress ladders as they are currently.
 - Using the bar graphs, discuss the following:
  1. Which of the Design Engineering(DE) outcomes have you achieved the highest number of points in?
@@ -123,6 +124,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Progress ladder *Green*, Write a list of tests that could be performed on a product.
 - For your current project, identify *and explain* 2 tasks that you feel went very well?
 - Now identify 2 tasks that you feel did not go well *and why*?
 - How would you improve on the above 2 tasks if you were to build the project again?
@@ -130,6 +132,7 @@ In a car, a circuit is needed to ensure that the airbags only deploy when there 
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Progress ladder *Blue*, Write and implement a basic test plan, stating expected results.
 - Self evaluation.
 - In your own words, *describe* how you managed the entire Design Engineering process for this project.
 - You can include the following:

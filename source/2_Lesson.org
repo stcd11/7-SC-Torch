@@ -140,6 +140,7 @@ http://upload.wikimedia.org/wikipedia/commons/a/ac/Resistor.JPG
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Progress ladder *Red*, Identify several electronic components, with assistance.
 - Look at the resistors in this photograph. You can magnify them by hovering with your mouse cursor.
 #+BEGIN_HTML
 <div class="magnifier" style="width: 610px; height: 410px;margin-left:auto;margin-right:auto;border-radius: 10px;">
@@ -203,6 +204,7 @@ http://upload.wikimedia.org/wikipedia/commons/a/ac/Resistor.JPG
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
+- Progress ladder *Orange*, Identify several electronic components, without assistance.
 - Copy this table shown below
 | Voltage(V) / V | Current(I) / A | Resistance(R) / Ω |
 |----------------+----------------+-------------------|
