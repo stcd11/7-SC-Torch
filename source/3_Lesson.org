@@ -128,7 +128,7 @@ On October 7, 2014, the Nobel Prize in Physics was awarded to Isamu Akasaki, Hir
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Progress ladder *Red*, Identify several electronic components, with assistance.
+*** Progress ladder *Red*, Identify several electronic components, with assistance.
 - Find an LED and take a photo of it using your phone or tablet (or your teacher's). Make sure you get a close up.
 - Use a graphics package to try and label the photo, like the diagram above.
 * How LEDs work
@@ -158,7 +158,7 @@ On October 7, 2014, the Nobel Prize in Physics was awarded to Isamu Akasaki, Hir
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Progress ladder *Yellow*, Conduct some relevant research on a project, with assistance.
+*** Progress ladder *Yellow*, Conduct some relevant research on a project, with assistance.
 - The symbol for an LED is shown below.
 [[file:img/LED_symbol.png]]
 - In your own words, and using screenshots of the animation above, try and explain why the symbol is drawn in this way.
@@ -197,7 +197,7 @@ Your browser does not support the video tag.
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Progress ladder *Yellow*, Draw basic circuit diagrams (e.g. an LED torch) with assistance.
+*** Progress ladder *Yellow*, Draw basic circuit diagrams (e.g. an LED torch) with assistance.
 - *Note* - /You should complete the Lesson on Circuit Design before coming back to try this badge/
 - Use Circuit Wizard to create a circuit containing an LED and a 9V power supply.
 - Ensure that explosions are turned on and run the simulation

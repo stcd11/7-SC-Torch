@@ -128,9 +128,9 @@ file:img/Build15b.jpg
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Silver - Progress ladder *Yellow*, Select appropriate tools and equipment to accomplish tasks, justifying the choice.
-- Gold - Progress ladder *Green*, Produce a working model from parts supplied by a teacher, with limited assistance.
-- Platinum - Progress ladder *Blue*, Produce challenging, high-quality, working products with very limited teacher assistance.
+*** Silver - Progress ladder *Yellow*, Select appropriate tools and equipment to accomplish tasks, justifying the choice.
+*** Gold - Progress ladder *Green*, Produce a working model from parts supplied by a teacher, with limited assistance.
+*** Platinum - Progress ladder *Blue*, Produce challenging, high-quality, working products with very limited teacher assistance.
 - Once you have completed your board, take it to your teacher to show them it working.
 - Take pictures of your torch from three different angles, including at least one where the LED lights up.
 - You will be assessed on the quality of your build.

@@ -148,7 +148,7 @@ file:img/CW9.png
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Progress ladder *Green*, Describe the operation of a given simple circuit, in terms of its components.
+*** Progress ladder *Green*, Describe the operation of a given simple circuit, in terms of its components.
 - In your own words, explain what happened when you simulated the circuit.
 - Describe how you could make sure this doesn't happen.
 * Using Circuit Wizard
@@ -232,7 +232,7 @@ file:img/PCB/PCB20.png
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: badge
 :END:
-- Progress ladder *Yellow*, Design a PCB layout for a simple circuit, with assistance.
+*** Progress ladder *Yellow*, Design a PCB layout for a simple circuit, with assistance.
 - The design of the digital torch PCB is by no means the absolute correct way of laying out the components.
 - See if you can come up with your own design for the PCB.
 - The smaller you can make the board, the happier your budget will be.
