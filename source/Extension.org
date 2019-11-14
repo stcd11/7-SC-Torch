@@ -92,7 +92,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- If you excel at Systems & Control, you might find yourself finishing your LED Torch well before your peers.
+- If you excel at Design Engineering, you might find yourself finishing your LED Torch well before your peers.
 - The following Extension activity will allow you to learn some new engineering skills and to practice your modelling skills.
 - There will be no badges awarded for this activity. The rewards is the work itself.
 ** Learn It
