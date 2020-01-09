@@ -146,7 +146,7 @@
 :HTML_CONTAINER_CLASS: badge
 :END:      
 *** Progress ladder - *Yellow*, Conduct some relevant research on a project, with assistance.
-- In your own words, try to describe the effect on increasing and decreasing the voltage on the wire.
+- In your own words, try to describe the effect on increasing and decreasing the voltage on the particles in the tube.
 * Current
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: activity
