@@ -93,14 +93,14 @@
 - When engineers have to complete large projects, they often rely on Gantt charts to help them organise themselves.
 - A Gantt chart contains all the tasks you need to complete, and a date on which they will be completed.
 - The Gantt chart below contains all the tasks for this project.
-| Lesson | Research | Circuit Design | Housing Design | Soldering | Assembly |
-|--------+----------+----------------+----------------+-----------+----------|
-| 1      |          |                |                |           |          |
-| 2      |          |                |                |           |          |
-| 3      |          |                |                |           |          |
-| 4      |          |                |                |           |          |
-| 5      |          |                |                |           |          |
-| 6      |          |                |                |           |          |
+| Lesson (no. Needed)     | 1 | 2 | 3 | 4 | 5 | 6 |
+|-------------------------+---+---+---+---+---+---|
+| Research (4)            |   |   |   |   |   |   |
+| Soldering (4)           |   |   |   |   |   |   |
+| Circuit Design (2)      |   |   |   |   |   |   |
+| Assembly (1)            |   |   |   |   |   |   |
+| Exaluation (1)          |   |   |   |   |   |   |
+| Housing Design Ext. (1) |   |   |   |   |   |   |
 - You can complete the tasks in any order you like, so long as they are all completed within the 6 lessons allowed.
 ** Try It
 :PROPERTIES:
