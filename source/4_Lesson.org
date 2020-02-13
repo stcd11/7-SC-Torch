@@ -92,7 +92,7 @@
 :PROPERTIES:
 :HTML_CONTAINER_CLASS: learn
 :END:
-- We're now going to deign our LED Torch.
+- We're now going to design our LED Torch.
 - The first thing we'll need to do is design a circuit and a PCB. To do this we use a program called /Circuit Wizard/.
 ** Design It
 :PROPERTIES:
